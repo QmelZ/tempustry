@@ -1,0 +1,8 @@
+.DS_Store
+desktop.ini
+# does this even appear anywhere lol
+thumbs.db
+
+/.idea/
+/.gradle/
+/build/
