@@ -1,0 +1,8 @@
+{
+    name: "tempustry",
+    displayName: "Tempustry",
+    description: "Here today, and gone tomorrow.",
+    author: "QmelZ",
+    version: "-not-even-going-to-bother-having-a-version-because-beta",
+    minGameVersion: 129
+}
